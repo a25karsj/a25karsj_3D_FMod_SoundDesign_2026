@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{08675b23-988b-4926-bdcf-6a4cf11c0a11}">
+		<property name="assetPath">
+			<value>FMOD-sounds/Ambience/City/._ambience_city_traffic_horn_3.ogg</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3ecb8244-3ae8-45cc-a303-d6bfb4baca35}</destination>
+		</relationship>
+	</object>
+</objects>

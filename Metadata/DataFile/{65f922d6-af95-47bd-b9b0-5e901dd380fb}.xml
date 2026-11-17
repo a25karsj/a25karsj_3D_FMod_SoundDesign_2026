@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{65f922d6-af95-47bd-b9b0-5e901dd380fb}">
+		<property name="assetPath">
+			<value>FMOD-sounds/Interactables/._barrel_rolling_loop.ogg</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3ecb8244-3ae8-45cc-a303-d6bfb4baca35}</destination>
+		</relationship>
+	</object>
+</objects>

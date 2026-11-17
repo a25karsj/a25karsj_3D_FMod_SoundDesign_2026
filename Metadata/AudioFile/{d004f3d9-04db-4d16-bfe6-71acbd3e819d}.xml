@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{d004f3d9-04db-4d16-bfe6-71acbd3e819d}">
+		<property name="assetPath">
+			<value>FMOD-sounds/Ambience/Forest/amb_forest_rain_drop_4.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.16</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3ecb8244-3ae8-45cc-a303-d6bfb4baca35}</destination>
+		</relationship>
+	</object>
+</objects>

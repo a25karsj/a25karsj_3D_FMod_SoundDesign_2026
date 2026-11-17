@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{2d7479af-ac1f-4ced-b73b-948b80430d9d}">
+		<property name="assetPath">
+			<value>FMOD-sounds/Ambience/birds/amb_bird_call_03.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>2.6268750000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3ecb8244-3ae8-45cc-a303-d6bfb4baca35}</destination>
+		</relationship>
+	</object>
+</objects>

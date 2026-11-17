@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{5ebc3851-7aa6-4aa5-ab16-9c9e217a32ae}">
+		<property name="assetPath">
+			<value>FMOD-sounds/NewMusic/Stingers/KnotStinger_SFX.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.3386666666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3ecb8244-3ae8-45cc-a303-d6bfb4baca35}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{c1b072e9-c53a-4bb9-b5f6-4c8a8f4cb21e}">
+		<property name="assetPath">
+			<value>FMOD-sounds/Footsteps/._footsteps_player_grass_03.ogg</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3ecb8244-3ae8-45cc-a303-d6bfb4baca35}</destination>
+		</relationship>
+	</object>
+</objects>

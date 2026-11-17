@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{eb1e659f-4876-44fd-a5e7-d737223eafb2}">
+		<property name="assetPath">
+			<value>FMOD-sounds/Ambience/birds/._amb_bird_call_01.ogg</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3ecb8244-3ae8-45cc-a303-d6bfb4baca35}</destination>
+		</relationship>
+	</object>
+</objects>

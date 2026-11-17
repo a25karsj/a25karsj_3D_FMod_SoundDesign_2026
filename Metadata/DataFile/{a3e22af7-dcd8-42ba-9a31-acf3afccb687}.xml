@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{a3e22af7-dcd8-42ba-9a31-acf3afccb687}">
+		<property name="assetPath">
+			<value>FMOD-sounds/Ambience/Forest/._amb_forest_rain_outside_big.ogg</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3ecb8244-3ae8-45cc-a303-d6bfb4baca35}</destination>
+		</relationship>
+	</object>
+</objects>

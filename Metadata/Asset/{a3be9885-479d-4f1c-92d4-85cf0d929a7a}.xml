@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{a3be9885-479d-4f1c-92d4-85cf0d929a7a}">
+		<property name="assetPath">
+			<value>FMOD-sounds/NewMusic/SpaceFactory_100BPM/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3ecb8244-3ae8-45cc-a303-d6bfb4baca35}</destination>
+		</relationship>
+	</object>
+</objects>

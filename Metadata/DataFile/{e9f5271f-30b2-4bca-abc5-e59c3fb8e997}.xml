@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{e9f5271f-30b2-4bca-abc5-e59c3fb8e997}">
+		<property name="assetPath">
+			<value>FMOD-sounds/Interactables/._wooden_collision_3_dry_dull.ogg</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3ecb8244-3ae8-45cc-a303-d6bfb4baca35}</destination>
+		</relationship>
+	</object>
+</objects>

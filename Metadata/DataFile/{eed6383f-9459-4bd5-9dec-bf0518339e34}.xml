@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{eed6383f-9459-4bd5-9dec-bf0518339e34}">
+		<property name="assetPath">
+			<value>FMOD-sounds/Ambience/Forest/._amb_forest_thunderstorm_01.ogg</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3ecb8244-3ae8-45cc-a303-d6bfb4baca35}</destination>
+		</relationship>
+	</object>
+</objects>
